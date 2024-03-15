@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit = {file = "./streamlit-1.32.0-py2.py3-none-any.whl"}
+streamlit = {file = "./streamlit-1.32.2-py2.py3-none-any.whl"}
 
 [dev-packages]
 
